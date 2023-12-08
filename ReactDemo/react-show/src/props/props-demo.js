@@ -2,6 +2,8 @@
 //props 是 组件的唯一参数！它的作用跟函数的参数相同--事实上！
 
 
+
+// 有具体值的是父组件 反之
 import React, { Children } from "react";
 import "../jsx/image.css";
 
